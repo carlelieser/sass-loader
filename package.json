@@ -1,10 +1,10 @@
 {
   "name": "sass-loader",
   "version": "10.2.1",
-  "description": "Sass loader for webpack",
+  "description": "A less dependent sass loader.",
   "license": "MIT",
   "repository": "webpack-contrib/sass-loader",
-  "author": "J. Tangelder",
+  "author": "Carlos E. Santos",
   "homepage": "https://github.com/webpack-contrib/sass-loader",
   "bugs": "https://github.com/webpack-contrib/sass-loader/issues",
   "funding": {
